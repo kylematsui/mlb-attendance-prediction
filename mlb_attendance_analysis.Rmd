@@ -1,7 +1,7 @@
 ---
 title: "MLB Attendance Prediction"
 description: "Predictive modeling project analyzing how MLB team statistics impact home game attendance using linear regression and Lasso in R"
-output: html_notebook
+output: github_document
 editor_options: 
   markdown: 
     wrap: 72
