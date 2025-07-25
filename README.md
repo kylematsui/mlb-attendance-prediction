@@ -25,7 +25,7 @@ This project was completed as the final project for the **[UC Berkeley ATDP Data
 - `mlb_attendance_analysis.Rmd`: Main analysis notebook (EDA, modeling, interpretation)
 - `mlb_attendance_prediction_presentation.pdf`: Summary slide deck presenting key findings, methodology, and conclusions from the analysis
 - `mlb_teams.csv`: Dataset containing MLB team stats and attendance figures (source: OpenIntro)
-- `raw_analysis_code.R`: Original R script containing initial data exploration, cleaning, and analysis
+- `raw_analysis_script.R`: Original R script containing initial data exploration, cleaning, and analysis
 
 ## 🔍 Key Steps
 - **Data Cleaning**: Removed NA values
