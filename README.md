@@ -10,7 +10,7 @@ Build a supervised machine learning model that predicts a team’s total home at
 
 ## 🎓 Course Information
 
-This project was completed as the final project for the **[UC Berkeley ATDP Data Science Lab with R](https://atdp.berkeley.edu/catalog/#SecondaryDivisionOnline/DataScienceLabwithR)** summer course. The course focused on applying statistical analysis, data visualization, and machine learning techniques using the R programming language. This capstone project applied those skills to a real-world dataset, demonstrating the end-to-end process of building, evaluating, and interpreting a predictive model.
+This project was completed as the final project for the **[UC Berkeley ATDP Data Science Lab with R](https://atdp.berkeley.edu/catalog/#SecondaryDivisionOnline/DataScienceLabwithR)** summer course. The course focused on applying statistical analysis, data visualization, and machine learning techniques using the R programming language. This project applied those skills to a real-world dataset, demonstrating the end-to-end process of building, evaluating, and interpreting a predictive model.
 
 ## 🧰 Tools & Libraries
 - R
@@ -32,12 +32,12 @@ This project was completed as the final project for the **[UC Berkeley ATDP Data
 - **Feature Engineering**: Created `win_pct` and `runs_per_game`
 - **Modeling**: 
   - Linear regression to estimate relationships
-  - Lasso regression to identify most important predictors
+  - Lasso regression to identify the most important predictors
 - **Evaluation**: RMSE, MAE, and R² metrics used to assess model performance
 
 ## 📌 Findings
 - Team performance (especially wins, runs per game, and home runs) has a positive relationship with home attendance.
-- However, the model's R² was relatively low, suggesting other external factors (e.g. market size, promotions, weather) play a large role in fan turnout.
+- However, the model's R² was relatively low, suggesting other external factors (e.g., market size, promotions, weather) play a large role in fan turnout.
 
 ## 📎 Data Source
 - [OpenIntro MLB Teams Dataset](https://www.openintro.org/data/index.php?data=mlb_teams)
