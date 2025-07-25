@@ -3,7 +3,7 @@
 This project explores how well Major League Baseball (MLB) team statistics can predict home game attendance. Using data from [OpenIntro's MLB dataset](https://www.openintro.org/data/index.php?data=mlb_teams), the analysis involves data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling using linear regression and Lasso regression.
 
 ## 🖥️ View the Full Analysis  
-You can explore the complete rendered report, including all code, plots, and outputs, online at [RPubs](https://rpubs.com/kylematsui/mlb-attendance-prediction).
+You can explore the complete rendered report, including all code, plots, and outputs, online at [RPubs](https://rpubs.com/kylematsui/mlb-attendance-prediction{target=_blank}).
 
 ## 📊 Objective
 Build a supervised machine learning model that predicts a team’s total home attendance based on team performance statistics such as wins, home runs, runs scored, ERA, and more.
